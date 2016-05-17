@@ -30,5 +30,8 @@ name:HmweMya
 comment:こんにちは  
 ---
 name:ychino  
-comment:宜しくお願いします！！！
+comment:宜しくお願いします！！！  
+---
+name:suzukiyo  
+comment:宜しくお願いします！！！  
 ---
