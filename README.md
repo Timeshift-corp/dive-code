@@ -32,3 +32,6 @@ comment:こんにちは
 name:ychino  
 comment:宜しくお願いします！！！
 ---
+name:akihiro
+comment:ハロー
+---
