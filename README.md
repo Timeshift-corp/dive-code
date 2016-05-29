@@ -35,3 +35,6 @@ comment:宜しくお願いします！！！
 name:suzukiyo  
 comment:宜しくお願いします！！！  
 ---
+name: hara  
+comment:よろしくお願いします。  
+---
