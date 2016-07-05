@@ -38,3 +38,6 @@ comment:宜しくお願いします！！！
 name: hara  
 comment:よろしくお願いします。  
 ---
+name: ikeda  
+comment:よろしくお願いします。  
+---
